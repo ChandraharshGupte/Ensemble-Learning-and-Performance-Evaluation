@@ -1,4 +1,4 @@
-# Practical Assignment 5: Ensemble Learning and Performance Evaluation
+# Ensemble Learning and Performance Evaluation
 
 ## Overview
 
@@ -75,20 +75,6 @@ Install the dependencies:
 python -m pip install scikit-learn pandas numpy matplotlib
 ```
 
-## Project Files
-
-``` text
-.
-├── ensemble_learning_iris.py
-├── README.md
-├── Practical_Assignment_5_Ensemble_Learning_Iris.docx
-├── ensemble_metrics_comparison.png
-└── ensemble_confusion_matrices.png
-```
-
-The Python script is the executable implementation. The DOCX file is the
-practical-assignment report. The two PNG files are the metric-comparison
-and ensemble confusion-matrix figures.
 
 ## How to Run
 
@@ -201,12 +187,6 @@ Results can vary if the split, model settings, or library versions are
 changed. For a stronger performance claim, use repeated cross-validation
 and retain a final untouched test set.
 
-## Author / Student Details
+## Author 
+Name: Chandraharsh R. Gupte
 
-Complete the student name, PRN, division, batch, roll number, faculty
-name, and submission details in the practical report before submission.
-
-## License
-
-This project is prepared for academic practical-assignment use. Add a
-license if you intend to distribute or reuse the code publicly.
